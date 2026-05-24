@@ -1,8 +1,20 @@
 [
     {
-        "title": "Complete Project",
-        "description": "Finish software configuration project",
+        "title": "Task 1",
+        "description": "Description 1",
         "priority": "High",
-        "completed": true
+        "completed": false
+    },
+    {
+        "title": "Task A",
+        "description": "Description A",
+        "priority": "Low",
+        "completed": false
+    },
+    {
+        "title": "Task B",
+        "description": "Description B",
+        "priority": "Medium",
+        "completed": false
     }
 ]
